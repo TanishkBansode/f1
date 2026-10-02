@@ -270,6 +270,24 @@
       "type": "race",
       "circuit": "Circuit de Barcelona-Catalunya",
       "location": "Barcelona, Spain"
+    },
+    {
+      "round": 31,
+      "name": "Azerbaijan Grand Prix Qualifying",
+      "shortName": "AZE-Q",
+      "date": "2026-09-25",
+      "type": "qualifying",
+      "circuit": "Baku City Circuit",
+      "location": "Baku, Azerbaijan"
+    },
+    {
+      "round": 32,
+      "name": "Azerbaijan Grand Prix",
+      "shortName": "AZE",
+      "date": "2026-09-26",
+      "type": "race",
+      "circuit": "Baku City Circuit",
+      "location": "Baku, Azerbaijan"
     }
   ],
   "raceDetails": [
@@ -7178,6 +7196,508 @@
           "status": "DNF"
         }
       ]
+    },
+    {
+      "round": 31,
+      "qualifyingResults": [
+        {
+          "position": 1,
+          "driverNumber": 63,
+          "driverId": "RUS",
+          "driver": "George Russell",
+          "team": "Mercedes",
+          "q1": "1:43.615",
+          "q2": "1:43.462",
+          "q3": "1:42.526",
+          "laps": 0
+        },
+        {
+          "position": 2,
+          "driverNumber": 16,
+          "driverId": "LEC",
+          "driver": "Charles Leclerc",
+          "team": "Ferrari",
+          "q1": "1:44.360",
+          "q2": "1:43.780",
+          "q3": "1:43.363",
+          "laps": 0
+        },
+        {
+          "position": 3,
+          "driverNumber": 81,
+          "driverId": "PIA",
+          "driver": "Oscar Piastri",
+          "team": "McLaren",
+          "q1": "1:45.014",
+          "q2": "1:43.814",
+          "q3": "1:43.364",
+          "laps": 0
+        },
+        {
+          "position": 4,
+          "driverNumber": 6,
+          "driverId": "HAD",
+          "driver": "Isack Hadjar",
+          "team": "Red Bull Racing",
+          "q1": "1:44.161",
+          "q2": "1:43.880",
+          "q3": "1:43.500",
+          "laps": 0
+        },
+        {
+          "position": 5,
+          "driverNumber": 1,
+          "driverId": "NOR",
+          "driver": "Lando Norris",
+          "team": "McLaren",
+          "q1": "1:44.571",
+          "q2": "1:44.020",
+          "q3": "1:43.672",
+          "laps": 0
+        },
+        {
+          "position": 6,
+          "driverNumber": 44,
+          "driverId": "HAM",
+          "driver": "Lewis Hamilton",
+          "team": "Ferrari",
+          "q1": "1:44.260",
+          "q2": "1:44.037",
+          "q3": "1:43.858",
+          "laps": 0
+        },
+        {
+          "position": 7,
+          "driverNumber": 10,
+          "driverId": "GAS",
+          "driver": "Pierre Gasly",
+          "team": "Alpine",
+          "q1": "1:44.489",
+          "q2": "1:44.106",
+          "q3": "1:44.047",
+          "laps": 0
+        },
+        {
+          "position": 8,
+          "driverNumber": 3,
+          "driverId": "VER",
+          "driver": "Max Verstappen",
+          "team": "Red Bull Racing",
+          "q1": "1:44.041",
+          "q2": "1:43.706",
+          "q3": "1:44.081",
+          "laps": 0
+        },
+        {
+          "position": 9,
+          "driverNumber": 55,
+          "driverId": "SAI",
+          "driver": "Carlos Sainz",
+          "team": "Williams",
+          "q1": "1:45.104",
+          "q2": "1:44.629",
+          "q3": "1:44.566",
+          "laps": 0
+        },
+        {
+          "position": 10,
+          "driverNumber": 43,
+          "driverId": "COL",
+          "driver": "Franco Colapinto",
+          "team": "Alpine",
+          "q1": "1:45.106",
+          "q2": "1:44.683",
+          "q3": "1:44.963",
+          "laps": 0
+        },
+        {
+          "position": 11,
+          "driverNumber": 87,
+          "driverId": "BEA",
+          "driver": "Oliver Bearman",
+          "team": "Haas",
+          "q1": "1:45.228",
+          "q2": "1:44.775",
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 30,
+          "driverId": "LAW",
+          "driver": "Liam Lawson",
+          "team": "Racing Bulls",
+          "q1": "1:45.535",
+          "q2": "1:44.860",
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 23,
+          "driverId": "ALB",
+          "driver": "Alexander Albon",
+          "team": "Williams",
+          "q1": "1:45.031",
+          "q2": "1:45.001",
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 31,
+          "driverId": "OCO",
+          "driver": "Esteban Ocon",
+          "team": "Haas",
+          "q1": "1:45.039",
+          "q2": "1:45.016",
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 41,
+          "driverId": "LIN",
+          "driver": "Arvid Lindblad",
+          "team": "Racing Bulls",
+          "q1": "1:45.381",
+          "q2": "1:45.106",
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 12,
+          "driverId": "ANT",
+          "driver": "Kimi Antonelli",
+          "team": "Mercedes",
+          "q1": "1:45.504",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 5,
+          "driverId": "BOR",
+          "driver": "Gabriel Bortoleto",
+          "team": "Audi",
+          "q1": "1:45.799",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 18,
+          "driverNumber": 27,
+          "driverId": "HUL",
+          "driver": "Nico Hulkenberg",
+          "team": "Audi",
+          "q1": "1:45.920",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 19,
+          "driverNumber": 14,
+          "driverId": "ALO",
+          "driver": "Fernando Alonso",
+          "team": "Aston Martin",
+          "q1": "1:46.593",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 20,
+          "driverNumber": 11,
+          "driverId": "PER",
+          "driver": "Sergio Perez",
+          "team": "Cadillac",
+          "q1": "1:46.658",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 21,
+          "driverNumber": 18,
+          "driverId": "STR",
+          "driver": "Lance Stroll",
+          "team": "Aston Martin",
+          "q1": "1:47.337",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        },
+        {
+          "position": 22,
+          "driverNumber": 77,
+          "driverId": "BOT",
+          "driver": "Valtteri Bottas",
+          "team": "Cadillac",
+          "q1": "1:48.290",
+          "q2": null,
+          "q3": null,
+          "laps": 0
+        }
+      ]
+    },
+    {
+      "round": 32,
+      "raceResults": [
+        {
+          "position": 1,
+          "driverNumber": 63,
+          "driverId": "RUS",
+          "driver": "George Russell",
+          "team": "Mercedes",
+          "startingGrid": 1,
+          "laps": 51,
+          "time": "1:38:02.143",
+          "points": 25,
+          "setFastestLap": true,
+          "fastestLapTime": "1:44.916"
+        },
+        {
+          "position": 2,
+          "driverNumber": 3,
+          "driverId": "VER",
+          "driver": "Max Verstappen",
+          "team": "Red Bull Racing",
+          "startingGrid": 8,
+          "laps": 51,
+          "time": "+0.196",
+          "points": 18
+        },
+        {
+          "position": 3,
+          "driverNumber": 6,
+          "driverId": "HAD",
+          "driver": "Isack Hadjar",
+          "team": "Red Bull Racing",
+          "startingGrid": 4,
+          "laps": 51,
+          "time": "+10.704",
+          "points": 15
+        },
+        {
+          "position": 4,
+          "driverNumber": 16,
+          "driverId": "LEC",
+          "driver": "Charles Leclerc",
+          "team": "Ferrari",
+          "startingGrid": 2,
+          "laps": 51,
+          "time": "+14.136",
+          "points": 12
+        },
+        {
+          "position": 5,
+          "driverNumber": 12,
+          "driverId": "ANT",
+          "driver": "Kimi Antonelli",
+          "team": "Mercedes",
+          "startingGrid": 16,
+          "laps": 51,
+          "time": "+14.512",
+          "points": 10
+        },
+        {
+          "position": 6,
+          "driverNumber": 44,
+          "driverId": "HAM",
+          "driver": "Lewis Hamilton",
+          "team": "Ferrari",
+          "startingGrid": 6,
+          "laps": 51,
+          "time": "+22.382",
+          "points": 8
+        },
+        {
+          "position": 7,
+          "driverNumber": 41,
+          "driverId": "LIN",
+          "driver": "Arvid Lindblad",
+          "team": "Racing Bulls",
+          "startingGrid": 15,
+          "laps": 51,
+          "time": "+31.159",
+          "points": 6
+        },
+        {
+          "position": 8,
+          "driverNumber": 31,
+          "driverId": "OCO",
+          "driver": "Esteban Ocon",
+          "team": "Haas",
+          "startingGrid": 13,
+          "laps": 51,
+          "time": "+31.189",
+          "points": 4
+        },
+        {
+          "position": 9,
+          "driverNumber": 87,
+          "driverId": "BEA",
+          "driver": "Oliver Bearman",
+          "team": "Haas",
+          "startingGrid": 10,
+          "laps": 51,
+          "time": "+31.929",
+          "points": 2
+        },
+        {
+          "position": 10,
+          "driverNumber": 55,
+          "driverId": "SAI",
+          "driver": "Carlos Sainz",
+          "team": "Williams",
+          "startingGrid": 14,
+          "laps": 51,
+          "time": "+32.416",
+          "points": 1
+        },
+        {
+          "position": 11,
+          "driverNumber": 27,
+          "driverId": "HUL",
+          "driver": "Nico Hulkenberg",
+          "team": "Audi",
+          "startingGrid": 18,
+          "laps": 51,
+          "time": "+33.231",
+          "points": 0
+        },
+        {
+          "position": 12,
+          "driverNumber": 30,
+          "driverId": "LAW",
+          "driver": "Liam Lawson",
+          "team": "Racing Bulls",
+          "startingGrid": 11,
+          "laps": 51,
+          "time": "+34.013",
+          "points": 0
+        },
+        {
+          "position": 13,
+          "driverNumber": 81,
+          "driverId": "PIA",
+          "driver": "Oscar Piastri",
+          "team": "McLaren",
+          "startingGrid": 3,
+          "laps": 51,
+          "time": "+36.401",
+          "points": 0
+        },
+        {
+          "position": 14,
+          "driverNumber": 11,
+          "driverId": "PER",
+          "driver": "Sergio Perez",
+          "team": "Cadillac",
+          "startingGrid": 20,
+          "laps": 51,
+          "time": "+41.400",
+          "points": 0
+        },
+        {
+          "position": 15,
+          "driverNumber": 5,
+          "driverId": "BOR",
+          "driver": "Gabriel Bortoleto",
+          "team": "Audi",
+          "startingGrid": 17,
+          "laps": 51,
+          "time": "+44.230",
+          "points": 0
+        },
+        {
+          "position": 16,
+          "driverNumber": 77,
+          "driverId": "BOT",
+          "driver": "Valtteri Bottas",
+          "team": "Cadillac",
+          "startingGrid": 19,
+          "laps": 49,
+          "time": "Accident",
+          "points": 0
+        },
+        {
+          "position": 17,
+          "driverNumber": 43,
+          "driverId": "COL",
+          "driver": "Franco Colapinto",
+          "team": "Alpine",
+          "startingGrid": 9,
+          "laps": 36,
+          "time": "Collision damage",
+          "points": 0,
+          "status": "DNF"
+        },
+        {
+          "position": 18,
+          "driverNumber": 10,
+          "driverId": "GAS",
+          "driver": "Pierre Gasly",
+          "team": "Alpine",
+          "startingGrid": 7,
+          "laps": 35,
+          "time": "Collision",
+          "points": 0,
+          "status": "DNF"
+        },
+        {
+          "position": 19,
+          "driverNumber": 1,
+          "driverId": "NOR",
+          "driver": "Lando Norris",
+          "team": "McLaren",
+          "startingGrid": 5,
+          "laps": 35,
+          "time": "Collision",
+          "points": 0,
+          "status": "DNF"
+        },
+        {
+          "position": 20,
+          "driverNumber": 23,
+          "driverId": "ALB",
+          "driver": "Alexander Albon",
+          "team": "Williams",
+          "startingGrid": 12,
+          "laps": 29,
+          "time": "Accident",
+          "points": 0,
+          "status": "DNF"
+        },
+        {
+          "position": 21,
+          "driverNumber": 14,
+          "driverId": "ALO",
+          "driver": "Fernando Alonso",
+          "team": "Aston Martin",
+          "startingGrid": 21,
+          "laps": 20,
+          "time": "Water pressure",
+          "points": 0,
+          "status": "DNF"
+        },
+        {
+          "position": 22,
+          "driverNumber": 18,
+          "driverId": "STR",
+          "driver": "Lance Stroll",
+          "team": "Aston Martin",
+          "startingGrid": 22,
+          "laps": 7,
+          "time": "Water pressure",
+          "points": 0,
+          "status": "DNF"
+        }
+      ]
     }
   ],
   "drivers": [
@@ -7373,6 +7893,19 @@
           "position": 1,
           "points": 25,
           "cumulativePoints": 292
+        },
+        {
+          "round": 31,
+          "position": 16,
+          "points": 0,
+          "cumulativePoints": 292
+        },
+        {
+          "round": 32,
+          "position": 5,
+          "points": 10,
+          "cumulativePoints": 302,
+          "grid": 16
         }
       ],
       "photo": "/drivers/ant.png"
@@ -7570,6 +8103,21 @@
           "position": 5,
           "points": 10,
           "cumulativePoints": 211
+        },
+        {
+          "round": 31,
+          "position": 1,
+          "points": 0,
+          "cumulativePoints": 211
+        },
+        {
+          "round": 32,
+          "position": 1,
+          "points": 25,
+          "cumulativePoints": 236,
+          "grid": 1,
+          "setFastestLap": true,
+          "fastestLapTime": "1:44.916"
         }
       ],
       "photo": "/drivers/rus.png"
@@ -7766,6 +8314,19 @@
           "points": 0,
           "cumulativePoints": 191,
           "status": "DNF"
+        },
+        {
+          "round": 31,
+          "position": 6,
+          "points": 0,
+          "cumulativePoints": 191
+        },
+        {
+          "round": 32,
+          "position": 6,
+          "points": 8,
+          "cumulativePoints": 199,
+          "grid": 6
         }
       ],
       "photo": "/drivers/ham.png"
@@ -7964,6 +8525,20 @@
           "position": 3,
           "points": 15,
           "cumulativePoints": 186
+        },
+        {
+          "round": 31,
+          "position": 5,
+          "points": 0,
+          "cumulativePoints": 186
+        },
+        {
+          "round": 32,
+          "position": 19,
+          "points": 0,
+          "cumulativePoints": 186,
+          "status": "DNF",
+          "grid": 5
         }
       ],
       "photo": "/drivers/nor.png"
@@ -8162,6 +8737,19 @@
           "position": 4,
           "points": 12,
           "cumulativePoints": 167
+        },
+        {
+          "round": 31,
+          "position": 2,
+          "points": 0,
+          "cumulativePoints": 167
+        },
+        {
+          "round": 32,
+          "position": 4,
+          "points": 12,
+          "cumulativePoints": 179,
+          "grid": 2
         }
       ],
       "photo": "/drivers/lec.png"
@@ -8362,6 +8950,19 @@
           "position": 2,
           "points": 18,
           "cumulativePoints": 145
+        },
+        {
+          "round": 31,
+          "position": 8,
+          "points": 0,
+          "cumulativePoints": 145
+        },
+        {
+          "round": 32,
+          "position": 2,
+          "points": 18,
+          "cumulativePoints": 163,
+          "grid": 8
         }
       ],
       "photo": "/drivers/ver.png"
@@ -8560,6 +9161,19 @@
           "position": 8,
           "points": 4,
           "cumulativePoints": 120
+        },
+        {
+          "round": 31,
+          "position": 3,
+          "points": 0,
+          "cumulativePoints": 120
+        },
+        {
+          "round": 32,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 120,
+          "grid": 3
         }
       ],
       "photo": "/drivers/pia.png"
@@ -8735,6 +9349,19 @@
           "position": 6,
           "points": 8,
           "cumulativePoints": 71
+        },
+        {
+          "round": 31,
+          "position": 4,
+          "points": 0,
+          "cumulativePoints": 71
+        },
+        {
+          "round": 32,
+          "position": 3,
+          "points": 15,
+          "cumulativePoints": 86,
+          "grid": 4
         }
       ],
       "photo": "/drivers/had.png"
@@ -8933,6 +9560,19 @@
           "position": 6,
           "points": 8,
           "cumulativePoints": 59
+        },
+        {
+          "round": 31,
+          "position": 12,
+          "points": 0,
+          "cumulativePoints": 59
+        },
+        {
+          "round": 32,
+          "position": 12,
+          "points": 0,
+          "cumulativePoints": 59,
+          "grid": 11
         }
       ],
       "photo": "/drivers/law.png"
@@ -9131,6 +9771,20 @@
           "position": 12,
           "points": 0,
           "cumulativePoints": 41
+        },
+        {
+          "round": 31,
+          "position": 7,
+          "points": 0,
+          "cumulativePoints": 41
+        },
+        {
+          "round": 32,
+          "position": 18,
+          "points": 0,
+          "cumulativePoints": 41,
+          "status": "DNF",
+          "grid": 7
         }
       ],
       "photo": "/drivers/gas.png"
@@ -9330,6 +9984,19 @@
           "position": 9,
           "points": 2,
           "cumulativePoints": 31
+        },
+        {
+          "round": 31,
+          "position": 15,
+          "points": 0,
+          "cumulativePoints": 31
+        },
+        {
+          "round": 32,
+          "position": 7,
+          "points": 6,
+          "cumulativePoints": 37,
+          "grid": 15
         }
       ],
       "photo": "/drivers/lin.png"
@@ -9526,6 +10193,20 @@
           "position": 7,
           "points": 6,
           "cumulativePoints": 27
+        },
+        {
+          "round": 31,
+          "position": 10,
+          "points": 0,
+          "cumulativePoints": 27
+        },
+        {
+          "round": 32,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 27,
+          "status": "DNF",
+          "grid": 9
         }
       ],
       "photo": "/drivers/col.png"
@@ -9728,6 +10409,19 @@
           "position": 16,
           "points": 0,
           "cumulativePoints": 18
+        },
+        {
+          "round": 31,
+          "position": 11,
+          "points": 0,
+          "cumulativePoints": 18
+        },
+        {
+          "round": 32,
+          "position": 9,
+          "points": 2,
+          "cumulativePoints": 20,
+          "grid": 10
         }
       ],
       "photo": "/drivers/bea.png"
@@ -9927,6 +10621,19 @@
           "position": 13,
           "points": 0,
           "cumulativePoints": 10
+        },
+        {
+          "round": 31,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 10
+        },
+        {
+          "round": 32,
+          "position": 15,
+          "points": 0,
+          "cumulativePoints": 10,
+          "grid": 17
         }
       ],
       "photo": "/drivers/bor.png"
@@ -10129,6 +10836,19 @@
           "position": 10,
           "points": 1,
           "cumulativePoints": 7
+        },
+        {
+          "round": 31,
+          "position": 18,
+          "points": 0,
+          "cumulativePoints": 7
+        },
+        {
+          "round": 32,
+          "position": 11,
+          "points": 0,
+          "cumulativePoints": 7,
+          "grid": 18
         }
       ],
       "photo": "/drivers/hul.png"
@@ -10328,9 +11048,233 @@
           "points": 0,
           "cumulativePoints": 6,
           "status": "DNF"
+        },
+        {
+          "round": 31,
+          "position": 9,
+          "points": 0,
+          "cumulativePoints": 6
+        },
+        {
+          "round": 32,
+          "position": 10,
+          "points": 1,
+          "cumulativePoints": 7,
+          "grid": 14
         }
       ],
       "photo": "/drivers/sai.png"
+    },
+    {
+      "id": "OCO",
+      "name": "Esteban Ocon",
+      "number": 31,
+      "team": "Haas",
+      "teamId": "haas",
+      "teamColor": "#B6BABD",
+      "results": [
+        {
+          "round": 1,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 2,
+          "position": 11,
+          "points": 0,
+          "grid": 13,
+          "fastestLapTime": "1:24.424",
+          "cumulativePoints": 0
+        },
+        {
+          "round": 3,
+          "position": 12,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 4,
+          "position": 10,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 5,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 6,
+          "position": 14,
+          "points": 0,
+          "grid": 13,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 7,
+          "position": 12,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 8,
+          "position": 10,
+          "points": 1,
+          "cumulativePoints": 1,
+          "grid": null
+        },
+        {
+          "round": 9,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 10,
+          "position": 11,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 11,
+          "position": 14,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 12,
+          "position": 13,
+          "points": 0,
+          "status": "+1 lap",
+          "cumulativePoints": 1
+        },
+        {
+          "round": 13,
+          "position": 14,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 14,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 15,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 16,
+          "position": 14,
+          "points": 0,
+          "status": "+2 laps",
+          "cumulativePoints": 1
+        },
+        {
+          "round": 17,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 1
+        },
+        {
+          "round": 18,
+          "position": 9,
+          "points": 2,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 19,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 20,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 21,
+          "position": 15,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 22,
+          "position": 16,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 23,
+          "position": 16,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 24,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 25,
+          "position": 17,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 26,
+          "position": 16,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 27,
+          "position": 14,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 28,
+          "position": 19,
+          "points": 0,
+          "cumulativePoints": 3,
+          "status": "DNF"
+        },
+        {
+          "round": 29,
+          "position": 16,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 30,
+          "position": 11,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 31,
+          "position": 14,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 32,
+          "position": 8,
+          "points": 4,
+          "cumulativePoints": 7,
+          "grid": 13
+        }
+      ],
+      "photo": "/drivers/oco.png"
     },
     {
       "id": "ALB",
@@ -10529,207 +11473,23 @@
           "position": 15,
           "points": 0,
           "cumulativePoints": 5
+        },
+        {
+          "round": 31,
+          "position": 13,
+          "points": 0,
+          "cumulativePoints": 5
+        },
+        {
+          "round": 32,
+          "position": 20,
+          "points": 0,
+          "cumulativePoints": 5,
+          "status": "DNF",
+          "grid": 12
         }
       ],
       "photo": "/drivers/alb.png"
-    },
-    {
-      "id": "OCO",
-      "name": "Esteban Ocon",
-      "number": 31,
-      "team": "Haas",
-      "teamId": "haas",
-      "teamColor": "#B6BABD",
-      "results": [
-        {
-          "round": 1,
-          "position": 13,
-          "points": 0,
-          "cumulativePoints": 0
-        },
-        {
-          "round": 2,
-          "position": 11,
-          "points": 0,
-          "grid": 13,
-          "fastestLapTime": "1:24.424",
-          "cumulativePoints": 0
-        },
-        {
-          "round": 3,
-          "position": 12,
-          "points": 0,
-          "cumulativePoints": 0
-        },
-        {
-          "round": 4,
-          "position": 10,
-          "points": 0,
-          "cumulativePoints": 0
-        },
-        {
-          "round": 5,
-          "position": 13,
-          "points": 0,
-          "cumulativePoints": 0
-        },
-        {
-          "round": 6,
-          "position": 14,
-          "points": 0,
-          "grid": 13,
-          "cumulativePoints": 0
-        },
-        {
-          "round": 7,
-          "position": 12,
-          "points": 0,
-          "cumulativePoints": 0
-        },
-        {
-          "round": 8,
-          "position": 10,
-          "points": 1,
-          "cumulativePoints": 1,
-          "grid": null
-        },
-        {
-          "round": 9,
-          "position": 17,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 10,
-          "position": 11,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 11,
-          "position": 14,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 12,
-          "position": 13,
-          "points": 0,
-          "status": "+1 lap",
-          "cumulativePoints": 1
-        },
-        {
-          "round": 13,
-          "position": 14,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 14,
-          "position": 13,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 15,
-          "position": 17,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 16,
-          "position": 14,
-          "points": 0,
-          "status": "+2 laps",
-          "cumulativePoints": 1
-        },
-        {
-          "round": 17,
-          "position": 17,
-          "points": 0,
-          "cumulativePoints": 1
-        },
-        {
-          "round": 18,
-          "position": 9,
-          "points": 2,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 19,
-          "position": 17,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 20,
-          "position": 13,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 21,
-          "position": 15,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 22,
-          "position": 16,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 23,
-          "position": 16,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 24,
-          "position": 13,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 25,
-          "position": 17,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 26,
-          "position": 16,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 27,
-          "position": 14,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 28,
-          "position": 19,
-          "points": 0,
-          "cumulativePoints": 3,
-          "status": "DNF"
-        },
-        {
-          "round": 29,
-          "position": 16,
-          "points": 0,
-          "cumulativePoints": 3
-        },
-        {
-          "round": 30,
-          "position": 11,
-          "points": 0,
-          "cumulativePoints": 3
-        }
-      ],
-      "photo": "/drivers/oco.png"
     },
     {
       "id": "ALO",
@@ -10929,6 +11689,20 @@
           "position": 17,
           "points": 0,
           "cumulativePoints": 3
+        },
+        {
+          "round": 31,
+          "position": 19,
+          "points": 0,
+          "cumulativePoints": 3
+        },
+        {
+          "round": 32,
+          "position": 21,
+          "points": 0,
+          "cumulativePoints": 3,
+          "status": "DNF",
+          "grid": 21
         }
       ],
       "photo": "/drivers/alo.png"
@@ -11165,6 +11939,19 @@
           "points": 0,
           "cumulativePoints": 0,
           "status": "DNF"
+        },
+        {
+          "round": 31,
+          "position": 20,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 32,
+          "position": 14,
+          "points": 0,
+          "cumulativePoints": 0,
+          "grid": 20
         }
       ],
       "photo": "/drivers/per.png"
@@ -11374,6 +12161,20 @@
           "points": 0,
           "cumulativePoints": 0,
           "status": "DNF"
+        },
+        {
+          "round": 31,
+          "position": 21,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 32,
+          "position": 22,
+          "points": 0,
+          "cumulativePoints": 0,
+          "status": "DNF",
+          "grid": 22
         }
       ],
       "photo": "/drivers/str.png"
@@ -11580,6 +12381,19 @@
           "points": 0,
           "cumulativePoints": 0,
           "status": "DNF"
+        },
+        {
+          "round": 31,
+          "position": 22,
+          "points": 0,
+          "cumulativePoints": 0
+        },
+        {
+          "round": 32,
+          "position": 16,
+          "points": 0,
+          "cumulativePoints": 0,
+          "grid": 19
         }
       ],
       "photo": "/drivers/bot.png"
@@ -11590,13 +12404,13 @@
       "name": "Mercedes",
       "id": "mercedes",
       "color": "#27F4D2",
-      "points": 503
+      "points": 538
     },
     {
       "name": "Ferrari",
       "id": "ferrari",
       "color": "#E8002D",
-      "points": 358
+      "points": 378
     },
     {
       "name": "McLaren",
@@ -11608,13 +12422,13 @@
       "name": "Red Bull Racing",
       "id": "red-bull",
       "color": "#3671C6",
-      "points": 216
+      "points": 249
     },
     {
       "name": "Racing Bulls",
       "id": "racing-bulls",
       "color": "#6692FF",
-      "points": 91
+      "points": 97
     },
     {
       "name": "Alpine",
@@ -11626,7 +12440,7 @@
       "name": "Haas",
       "id": "haas",
       "color": "#B6BABD",
-      "points": 21
+      "points": 27
     },
     {
       "name": "Sauber",
@@ -11638,7 +12452,7 @@
       "name": "Williams",
       "id": "williams",
       "color": "#1868DB",
-      "points": 11
+      "points": 12
     },
     {
       "name": "Aston Martin",
